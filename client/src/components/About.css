@@ -1,0 +1,46 @@
+.about{
+    background:#08111f;
+}
+
+.about-container{
+    margin-top:60px;
+}
+
+.about-card{
+    padding:50px;
+}
+
+.about-card h3{
+    font-size:34px;
+    margin-bottom:25px;
+    color:#3B82F6;
+}
+
+.about-card p{
+    color:#CBD5E1;
+    line-height:1.9;
+    margin-bottom:20px;
+}
+
+.about-info{
+    margin-top:40px;
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:25px;
+}
+
+.about-info div{
+    background:rgba(255,255,255,.04);
+    border:1px solid rgba(255,255,255,.08);
+    border-radius:15px;
+    padding:20px;
+}
+
+.about-info h4{
+    color:#60A5FA;
+    margin-bottom:8px;
+}
+
+.about-info span{
+    color:#E2E8F0;
+}
