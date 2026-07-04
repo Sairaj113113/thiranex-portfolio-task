@@ -1,16 +1,63 @@
-# React + Vite
+# 🚀 Thiranex Portfolio Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Personal Portfolio Website developed as part of the **Thiranex Full Stack Development Internship – Task 1**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Features
 
-## React Compiler
+- Responsive Portfolio Website
+- Modern Dark UI
+- About Me Section
+- Skills Showcase
+- Projects Section
+- Contact Form
+- React + Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📷 Screenshots
+
+### Hero Section
+
+![Hero](./screenshots/hero.png)
+
+---
+
+### About & Skills
+
+![About](./screenshots/about.png)
+
+---
+
+### Projects
+
+![Projects](./screenshots/projects.png)
+
+---
+
+### Contact
+
+![Contact](./screenshots/contact.png)
+
+---
+
+## 👨‍💻 Author
+
+**Sai Raj Aitha**
+
+GitHub:
+https://github.com/Sairaj113113
+
+LinkedIn:
+https://www.linkedin.com/in/sairaj-aitha
